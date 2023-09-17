@@ -1,2 +1,2 @@
 # Python-projects
-These projects are developed using only Python.
+please dowload the Panda,Flask,Django,Frontend libraries\frame work for this project work
